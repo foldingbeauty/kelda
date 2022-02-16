@@ -1,2 +1,4 @@
-# kelda
-Open Training about Open Source
+# Kelda
+An open source training about open source.
+
+
