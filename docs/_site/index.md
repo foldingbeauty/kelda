@@ -1,5 +1,7 @@
-![](images/fountain.png)
-# Welcome to Kelda
-Your source to open source!
+Start with the [Introduction](introduction.html)
 
-sdsdsdsd
+# Posts
+
+{% for post in site.posts %}
+[{{ post.title }}]({{ post.url }})
+  {% endfor %}
