@@ -1,5 +1,7 @@
+![Fountain by SBTS from NounProject.com](images/fountain.png)
+
 # Kelda
-An open source training about open source.
+A source to open source.
 
 ## Contributors
 - @foldingbeauty
