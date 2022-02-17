@@ -6,6 +6,8 @@ ports:
     onOpen: open-preview
 tasks:
   - name: setup website
+    before: |
+      bundle config set --local path 'vendor/bundle'
     init: |
       cd /workspace/kelda/docs
       bundle update
@@ -33,3 +35,4 @@ vscode:
     - GitHub.vscode-pull-request-github
     - jebbs.plantuml
     - zaaack.markdown-editor
+    - eamodio.gitlens
