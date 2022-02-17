@@ -1,3 +1,26 @@
+image:
+  file: Dockerfile
+
+ports:
+  - port: 4000
+    onOpen: open-browser
+tasks:
+  - init: cd docs && bundle update && bundle install
+    command: cd docs && bundle exec jekyll serve --host=0.0.0.0
+
+github:
+  prebuilds:
+    # enable for the master/default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: false
+    # enable for pull requests coming from this repo (defaults to true)
+    pullRequests: true
+    # add a check to pull requests (defaults to true)
+    addCheck: true
+    # add a "Review in Gitpod" button as a comment to pull requests (defaults to false)
+    addComment: false
+    
 vscode:
   extensions:
     - zerodind.familiar-java-themes
