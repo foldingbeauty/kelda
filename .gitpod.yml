@@ -6,7 +6,7 @@ ports:
     onOpen: open-browser
 tasks:
   - init: cd docs && bundle update && bundle install
-    command: cd docs && bundle exec jekyll serve --host=0.0.0.0
+    command: bundle exec jekyll serve --host=0.0.0.0
 
 github:
   prebuilds:
