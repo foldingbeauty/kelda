@@ -1,12 +1,6 @@
 vscode:
   extensions:
     - zerodind.familiar-java-themes
-vscode:
-  extensions:
     - GitHub.vscode-pull-request-github
-vscode:
-  extensions:
     - jebbs.plantuml
-vscode:
-  extensions:
     - zaaack.markdown-editor
