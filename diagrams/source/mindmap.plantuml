@@ -1,5 +1,5 @@
 @startmindmap opensource-mindmap
-- Open Source
+-[#Orange] Open Source
 -- Open
 --- Free
 --- Colleberation
@@ -8,4 +8,9 @@
 +++ Processes
 +++ Goverance
 +++ People
++++ Art
++++ Software
+++++ Code
++++ Hardware
+++++ CPU
 @endmindmap
