@@ -2,3 +2,4 @@ title: KELDA
 description: your source to open source
 theme: jekyll-theme-minimal
 logo: /assets/img/fountain.png
+exclude: [Dockerfile, LICENSE, README.md]
