@@ -31,4 +31,4 @@ Are you ready?
 
 Because we are open-source too ([CC-BY-4.0 License](https://github.com/foldingbeauty/kelda/blob/main/LICENSE)) everybody can use the Kelda workshop material and organize a training.
 
-The [Workshop Program](/training_material/workshop-program.html) is you entry point to Kelda. Have Fun.
+The [Workshop Program](training_material/workshop-program.html) is you entry point to Kelda. Have Fun.
