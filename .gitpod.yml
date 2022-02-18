@@ -9,11 +9,9 @@ tasks:
     before: |
       bundle config set --local path 'vendor/bundle'
     init: |
-      cd /workspace/kelda/docs
       bundle update
       bundle install
     command: |
-      cd /workspace/kelda/docs
       bundle exec jekyll serve --host=0.0.0.0 --livereload
 
 github:
