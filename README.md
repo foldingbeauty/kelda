@@ -1,4 +1,5 @@
 ![Fountain by SBTS from NounProject.com](/assets/img/fountain.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda?ref=badge_shield)
 
 # Kelda
 Kelda is an open-source (physical) workshop to experience playfully and experimentally the awesome power of open-source.
@@ -31,3 +32,6 @@ If you don't see your idea listed, and you think it fits into the goals of [Keld
 Discussions about [Kelda](https://foldingbeauty.github.io/kelda/) take place during the workshop and on this repository's [Issues](https://github.com/foldingbeauty/kelda/issues) and [Pull Requests](https://github.com/foldingbeauty/kelda/pulls) sections. Anybody is welcome to join these conversations.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda?ref=badge_large)
