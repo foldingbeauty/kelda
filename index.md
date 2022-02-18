@@ -13,7 +13,7 @@ As a participant in the Kelda workshop you learn three things:
 
 - The definition of open-source
 - Create an open-source vision
-- Create open-source strategy
+- Create an open-source strategy
 
 And have lots of fun along the way!
 
@@ -21,7 +21,7 @@ After the workshop, you know how open-source can help you achieve (new) goals an
 
 Are you ready?
 
-#### Perquisites
+#### Prerequisites
 
 - a [github](https://www.github.com) account
 - a [gitpod](https://www.gitpod.io) account
