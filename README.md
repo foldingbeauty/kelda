@@ -1,8 +1,7 @@
-![Fountain by SBTS from NounProject.com](docs/assets/img/fountain.png)
+![Fountain by SBTS from NounProject.com](/assets/img/fountain.png)
 
 # Kelda
-A source to open source.
-
+Kelda is an open-source (physical) workshop to experience playfully and experimentally the awesome power of open-source.
 ## Contribution?
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/foldingbeauty/kelda)
