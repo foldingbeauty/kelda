@@ -36,4 +36,4 @@ Wherever possible, do not take these conversations to private channels, includin
 
 [CC-BY-4.0 License](https://github.com/foldingbeauty/kelda/blob/main/LICENSE)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoldingbeauty%2Fkelda?ref=badge_large)
