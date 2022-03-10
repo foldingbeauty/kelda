@@ -1,7 +1,7 @@
 # Workshop Program
 ## Introduction
 ## Session #1
-### [Warming-up](warm-up.md)
+### [Warming-up](warm-up.html)
 ### Open Source Definition
 ### Open Source Vision
 

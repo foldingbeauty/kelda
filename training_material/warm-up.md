@@ -6,7 +6,7 @@ To get the creative energy flowing and to be in de right mind-set to work on the
 
 ## Rules
 
- ❥ _The workshop leader explains the use of a  [code of conduct](../CODE_OF_CONDUCT.md) before introducing the games to the participants._
+ ❥ _The workshop leader explains the use of a  [code of conduct](../CODE_OF_CONDUCT.html) before introducing the games to the participants._
 
 **In short:**
 
