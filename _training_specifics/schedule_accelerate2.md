@@ -32,6 +32,11 @@ layout: default
 - Login in to Github
 - Fork https://github.com/foldingbeauty/kelda
 - Launch Gitpod in your fork 
+- Checkout branch 
+  
+  ```
+  accelerate_2_XX_03 (XX = 15 | 17)
+  ```
 
 ## Session #1
 16:30 → 18:00
