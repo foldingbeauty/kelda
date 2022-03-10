@@ -7,3 +7,6 @@ collections:
   training_specifics:
     output: true
     permalink: /training_specfics/:path/
+  trainers:
+    output: true
+    permalink: /trainers/:path/
