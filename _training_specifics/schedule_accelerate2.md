@@ -29,9 +29,14 @@ layout: default
 ## Settle in 
 16:00 → 16:30
 - Connect laptop to WIFI
-- Login in to Github
-- Fork https://github.com/foldingbeauty/kelda
-- Launch Gitpod in your fork 
+- Login in to [Github](https://github.com)
+- Fork [https://github.com/foldingbeauty/kelda](https://github.com/foldingbeauty/kelda)
+- Launch [Gitpod](https://gitpod.io) in your fork 
+- Checkout branch 
+  
+  ```
+  accelerate_2_XX_03 (XX = 15 | 17)
+  ```
 
 ## Session #1
 16:30 → 18:00

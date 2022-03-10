@@ -14,5 +14,5 @@
 ## Cooling-down
 ### Homework
 ### Clearance
-
-[guide for trainers](/training_material/trainers/workshop_preperations.html)
+---
+[Guide for trainers](trainers/workshop_preperations.html)
