@@ -7,4 +7,3 @@ collections:
   training_specifics:
     output: true
     permalink: /training_specfics/:path/
-defaults:
