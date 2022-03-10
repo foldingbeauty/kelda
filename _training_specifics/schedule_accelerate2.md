@@ -27,20 +27,20 @@ layout: default
 ```
 
 ## Settle in 
-17:00 → 17:30
+16:00 → 16:30
 - Connect laptop to WIFI
 - Login in to Github
 - Fork https://github.com/foldingbeauty/kelda
 - Launch Gitpod in your fork 
 
 ## Session #1
-17:30 → 18:30
+16:30 → 18:00
 
 ## Diner
-18:30 → 19:30
+18:00 → 19:00
 
 ## Session #2
-19:30 → 20:30
+19:00 → 20:30
 
 ## The End
 20:30 → ~ 21:00
