@@ -30,8 +30,6 @@ github:
 vscode:
   extensions:
     - zerodind.familiar-java-themes
-    - GitHub.vscode-pull-request-github
     - jebbs.plantuml
     - zaaack.markdown-editor
-    - eamodio.gitlens
     - streetsidesoftware.code-spell-checker
