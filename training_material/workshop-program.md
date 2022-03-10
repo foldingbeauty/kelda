@@ -1,5 +1,5 @@
 # Workshop Program
-## Introduction
+## [Introduction](introduction.html)
 ## Session #1
 ### [Warming-up](warm-up.html)
 ### Open Source Definition
@@ -15,4 +15,4 @@
 ### Homework
 ### Clearance
 ---
-[Guide for trainers](trainers/workshop_preperations.html)
+[Guide for trainers](trainers/workshop_preparations.html)
