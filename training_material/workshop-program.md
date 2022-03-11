@@ -15,4 +15,4 @@
 ### Homework
 ### Clearance
 ---
-[Guide for trainers](trainers/workshop_preparations.html)
+[Guide for trainers](workshop_preparations.html)
