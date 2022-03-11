@@ -6,7 +6,5 @@ exclude: [Dockerfile, LICENSE, README.md, vendor, .bundle, old_training]
 collections:
   training_specifics:
     output: true
-    permalink: /training_specfics/:path/
   trainers:
     output: true
-    permalink: /trainers/:path/
