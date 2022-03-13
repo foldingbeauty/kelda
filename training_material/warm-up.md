@@ -29,7 +29,7 @@ Two great warm-up games that also helps a new group to learn each other's names.
 
 #### Action Syllables
 
-Everybody in a circle. First person says his name, making a gesture (an action) for every syllable. Mary has 2 syllables, so she does something like "Ma-" (wave right hand) "-ry" (claps in hands). Everyone repeats this. Then the second person calls his name, again with a gesture per syllable. Group repeats, and then repeats all previous names and syllables.
+Everybody in a circle. First person says his name, making a gesture (an action) for every syllable. Mary has 2 syllables, so she does something like "Ma-" (wave right hand) "-ry" (claps in hands). Everyone repeats this. Then the second person calls his name, again with a gesture per syllable. Group repeats.
 
 ❥ _The workshop leader is the first person_
 
