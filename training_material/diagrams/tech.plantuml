@@ -1,0 +1,59 @@
+@startuml
+actor users as us
+
+node "home web4 applicance" as op {
+ component "web interface" as wi
+ agent "agent" as ag
+ wi --> ag
+ artifact contracts
+ artifact assets
+ artifact coins
+ ag -- contracts
+ ag -- assets
+ ag -- coins
+}
+
+node "open hardware" as ophw {
+}
+
+op --> ophw : "runs on"
+
+us --> wi
+
+
+
+node "our service" as service { 
+
+collections "smart contracts" as sc
+collections "smart assets" as sa
+collections "smart coin" as scc
+
+
+
+
+database "proof-of-stake block chain" as bc
+
+} 
+
+
+cloud #blue "public cloud" as cl
+component "open source components" as osc
+component #pink "extensible tech" as et
+
+bc --> cl : deployable
+
+osc -[dotted]-> service : "used by"
+osc -[dotted]-> op : "used by"
+
+sc --> bc
+sa --> bc
+scc --> bc
+
+et -[dotted]- sc 
+et -[dotted]- sa 
+et -[dotted]- scc
+et -[dotted]- bc
+et -[dotted]- ag
+
+ag <--> bc
+@enduml

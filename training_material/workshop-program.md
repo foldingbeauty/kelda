@@ -1,18 +1,19 @@
 # Workshop Program
-## Introduction
+## [Introduction](introduction.html) (10 min)
 ## Session #1
-### [Warming-up](warm-up.md)
-### Open Source Definition
-### Open Source Vision
+### [Warming-up](warm-up.html) (10 min)
+### [Open Source Definition](definition.html) (30 min)
+### [Open Source Vision](vision.html) (40 min)
 
 ## Break
 
 ## Session #2
-### Warming-Up
-### Open Source Strategy
+### [Warming-up](warm-up.html) (10 min)
+### [Open Source Strategy](strategy.html) (60 min)
 
 ## Cooling-down
-### Homework
-### Clearance
+### [Q&A](ama.html) (20 min)
+### [Homework](homework.html) (5 min)
+### [Wrap-up](clearance.html) (10 min)
 ---
-[Guide for trainers](trainers/workshop_preperations.html)
+[Guide for trainers](workshop_preparations.html)

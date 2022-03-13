@@ -1,9 +1,9 @@
 ---
-title:  "Workshop Schedule Accelerate 2"
+title:  "Workshop Schedule Template"
 trainer: Daniel van Gils
 layout: default
 ---
-# Workshop Schedule Accelerate 2
+# Workshop Schedule Template
 ```
        _..._
       |_____|
