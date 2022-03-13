@@ -1,6 +1,6 @@
 # Welcome
 
-[Kelda](training_material/kelda.html) is an open-source (physical) workshop to experience playfully and experimentally the awesome power of open-source.
+Kelda is an open-source (physical) workshop to experience playfully and experimentally the awesome power of open-source.
 
 
 ## Workshop
@@ -32,3 +32,7 @@ Are you ready?
 Because we are open-source too ([CC-BY-4.0 License](https://github.com/foldingbeauty/kelda/blob/main/LICENSE)) everybody can use the Kelda workshop material and organize a training.
 
 The [Workshop Program](training_material/workshop-program.html) is you entry point to Kelda. Have Fun.
+
+### Kelda?
+
+Icelandic for a source (spring) bubbling up

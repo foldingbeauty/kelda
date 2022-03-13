@@ -2,6 +2,8 @@
 
 To start the discussion about [gratis vs. libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) this is a fun conversation starter. Prepare the brownies beforehand en print-out the template.
 
+[Download print-out](diagrams/brownie.pdf)
+
 ## Recipe
 
 ### Preparation time

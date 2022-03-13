@@ -1,2 +1,2 @@
-- https://en.wikipedia.org/wiki/Gratis_versus_libre
-- http://improvencyclopedia.org/
+- [https://en.wikipedia.org/wiki/Gratis_versus_libre](https://en.wikipedia.org/wiki/Gratis_versus_libre)
+- [http://improvencyclopedia.org/](http://improvencyclopedia.org/)
