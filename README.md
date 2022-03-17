@@ -23,7 +23,7 @@ If you don't see your idea listed, and you think it fits into the goals of [Keld
 
 [Kelda](https://foldingbeauty.github.io/kelda/) is powered by [Jekyll](https://jekyllrb.com/). The easiest way is to use Gitpod.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/foldingbeauty/kelda)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foldingbeauty/kelda/tree/main)
 
 
 ## Community
