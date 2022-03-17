@@ -1,2 +1,3 @@
 - [https://en.wikipedia.org/wiki/Gratis_versus_libre](https://en.wikipedia.org/wiki/Gratis_versus_libre)
 - [http://improvencyclopedia.org/](http://improvencyclopedia.org/)
+- [https://nl.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar](https://nl.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
