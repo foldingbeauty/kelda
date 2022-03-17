@@ -6,12 +6,12 @@
 
 Research at least three different open source licenses (MIT, Apache, AGPL, SSPL, ... ). Choose one! 
 
-❥ _10 minutes_ 
+❥ _10 minutes - see https://opensource.org/licenses_ 
 
 ## Open Source Governance
-Research which Governance fits best (CNCF, Apache, Others?) . Choose one.
+Research one Governance fits best (CNCF, Apache, Others?) . Choose one.
 
-❥ _10 minutes_ 
+❥ _10 minutes -
 
 ## Open Source Community
 
