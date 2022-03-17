@@ -37,7 +37,7 @@
 
 ## Open Source Building Blocks
 
-❥ _Explain how your team will deal with upstream Open Source Building Blocks_
+❥ _Explain how your team will deal with upstream Open Source Building Blocks._
 
 - how?
 - how?

@@ -2,7 +2,7 @@
 
 ## Clearance
 
-❥ _One person go the **feedback issue** on Kelda created for this workshop and will write down the feedback given by the group._
+❥ _One person go the **feedback issue** on Kelda created for this workshop and write down the feedback given by the rest of the group._
 
 Three simple questions:
 

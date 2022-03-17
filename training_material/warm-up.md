@@ -31,13 +31,13 @@ Two great warm-up games that also helps a new group to learn each other's names.
 
 Everybody in a circle. First person says his name, making a gesture (an action) for every syllable. Mary has 2 syllables, so she does something like "Ma-" (wave right hand) "-ry" (claps in hands). Everyone repeats this. Then the second person calls his name, again with a gesture per syllable. Group repeats.
 
-❥ _The workshop leader is the first person_
+❥ _The workshop leader is the first person._
 
 #### Word Ball
 
 Everybody in a circle. One player starts by tossing a word to another player. The receiver associates on this word, and throws his association to yet another player.
 
-❥ _The workshop leader is the first person_
+❥ _The workshop leader is the first person._
 
 ### Warm-up session II
 
@@ -58,5 +58,5 @@ If the group is ready for more action:
 
 You can invent other sounds and gestures. You might replace Whoosh by a kind of Vroom-Vroom, as is you're in a car, and replace Wow by the sounds of brakes (`iiiii`) etc. Also known as Zip Zap Zoop.
 
-❥ _The workshop leader is the first person_
+❥ _The workshop leader is the first person._
 
