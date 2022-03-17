@@ -28,7 +28,7 @@ layout: default
 
 ## Settle in 
 16:00 → 16:30
-- Connect laptop to WIFI (Network: ? Password: ?)
+- Connect laptop to WIFI (Open Network / Valk Deventer)
 - Login in to [Github](https://github.com)
 - Go to [https://github.com/foldingbeauty/kelda](https://github.com/foldingbeauty/kelda)
 - Click the "Open in GitPod" button
