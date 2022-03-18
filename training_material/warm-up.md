@@ -46,7 +46,7 @@ Everybody in a circle. One player starts by tossing a word to another player. Th
 Everybody in a circle. Start with one person, who waves both hands to his/her neighbor, saying `Whoosh`. The next person passes the Whoosh to his neighbor, and that way the Whoosh is passed around the circle. 
 There`s 4 other sounds/movements that can be made.
 
-- `Boing`: indicated by saying Wow, and moving both arms down. A Wow changes the direction of the Whoosh
+- `Boing`: indicated by saying Wow, and moving both arms down. A Wow changes the direction of the Whoosh.
 - `Zap`: instead of passing the Whoosh to your neighbor, it gets zapped to the person you point to. The receiver continues with either a Whoosh to his neighbor, or another Zap to another person. A Wow after a Zap returns to the Zapper.
 
 If the group is ready for more action:
