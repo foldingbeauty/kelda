@@ -23,6 +23,9 @@ Research what an open source community is and sum three best practices (marketin
 
 Research what are biggest three challenges/risks of using Open Source building blocks. 
 
+![](https://imgs.xkcd.com/comics/dependency.png)
+Credits: [XKCD](https://xkcd.com/2347/)
+
 ❥ _10 minutes_ 
 
 ## Exchange Work

@@ -2,4 +2,5 @@
 - [http://improvencyclopedia.org/](http://improvencyclopedia.org/)
 - [https://nl.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar](https://nl.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
     - [http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
-- [https://opensource.guide/][https://opensource.guide/]
+- [https://opensource.guide/](https://opensource.guide/)
+- [https://xkcd.com/2347/](https://xkcd.com/2347/)
