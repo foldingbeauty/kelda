@@ -4,3 +4,8 @@
     - [http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 - [https://opensource.guide/](https://opensource.guide/)
 - [https://xkcd.com/2347/](https://xkcd.com/2347/)
+
+Open Source Licenses
+- [https://choosealicense.com](Overview of licenses)
+- [https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses](Find and compare software licenses)
+- [https://choosealicense.com](Choose a license)
