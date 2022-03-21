@@ -25,7 +25,7 @@ Are you ready?
 
 - a [github](https://www.github.com) account
 - a [gitpod](https://www.gitpod.io) account
-- a laptop with wifi
+- a laptop with internet connection
 
 ### Trainers
 
