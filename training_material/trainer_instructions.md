@@ -5,7 +5,7 @@
 - Two parts with a break in between
   - Open Source Definition
     - [Warm-up](warm-up.md)
-    - [Collaborative mindmap]
+    - Collaborative mindmap
     - Cool-down   
   - Open Source Vision & Strategy
     - Create a fictive company
